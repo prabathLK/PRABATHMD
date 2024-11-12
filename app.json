@@ -1,24 +1,24 @@
 {
-  "name": "PRABATH-MD (2.1.3)",
-  "description": "PRABATH-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+  "name": "ZiDi-MD (2.1.3)",
+  "description": "ZiDi-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
   "logo": "https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "multi device", "prabath-md"],
   "success_url": "/",
 
   "env": {
     "BOT_NUMBER": {
-      "description": "Put the number here.",
+      "description": "14143633925",
       "required": true
     },  
 
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "PRABATH-MD~nMEQ1IJa#OWu7JqECFGvWgmB3QfIUVFcfGd0qESW8g-c-7L6QWbU",
       "required": false
     },  
 
 
     "GITHUB_AUTH_TOKEN": {
-      "description": "Put your github authtoken here.",
+      "description": "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",
       "required": true
     }   
 },
