@@ -18,12 +18,12 @@ GITHUB_TOKEN = envv2.GITHUB_AUTH_TOKEN
 }
 if(process.env.BOT_NUMBER){
 BOT_NUMBER = process.env.BOT_NUMBER
-}else{
+}94772823687{
 BOT_NUMBER = envv2.BOT_NUMBER
 }
 if(process.env.SESSION_ID){
 SESSION_ID = process.env.SESSION_ID
-}else{
+}PRABATH-MD~ea5l3TDR#1vW5qLmfm3FkecUJHbMQNQRSLteYgIq-jGMNn1vVe1E{
 SESSION_ID = envv2.SESSION_ID
 }
 
