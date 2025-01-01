@@ -1,7 +1,7 @@
 {
-    "name": "PRABATHMD(PMD)",
+    "name": "THARINDU)",
     "version": "2.1.4",
-    "description": "PRABATHMD(PMD) is a Powerful Whatsapp bot.  👨‍💻❤️",
+    "description": "THARINDU(PMD) is a Powerful Whatsapp bot.  👨‍💻❤️",
     "main": "start.js",
     "scripts": {
         "start": "pm2 start start.js --deep-monitoring --attach --name wabot-prabathmd",
